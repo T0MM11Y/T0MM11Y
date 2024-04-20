@@ -3,11 +3,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tian+Yehezkil!;" />
 </h1>
-
 <br/>
-
 ![tumbok](https://github.com/T0MM11Y/UIWEB-master/blob/main/tumbok.gif)
-
  
 <div align="center"> 
   <a href="mailto:tiantomm@gmail.com">
@@ -16,17 +13,11 @@
   <a href="https://linkedin.com/in/christian-yehezkil-gultom-561725258" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/T0MM11Y" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
 </div>
-
 
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
 
 <hr/>
