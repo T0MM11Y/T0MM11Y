@@ -5,7 +5,7 @@
 </h1>
 <br/>
 
-![tumbok](https://github.com/T0MM11Y/UIWEB-master/blob/main/tumbok.gif)
+![gary](https://github.com/T0MM11Y/UIWEB-master/blob/main/gary.gif)
 
 <div align="center">
   <br>
@@ -13,4 +13,6 @@
 </div>
 
 <hr/>
+[![T0MM11Y's GitHub stats](https://github-readme-stats.vercel.app/api?username=T0MM11Y)](https://github.com/anuraghazra/github-readme-stats)
+
 
